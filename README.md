@@ -1,4 +1,6 @@
-# Тесты на тему Словари
+![alt MATE Programming Lab](https://github.com/MATE-Programming/6_Dictionaries/blob/main/lab_6.svg?raw=true)
+
+# Практическое задание на тему Словари
 
 #### 1. Ниже даны два списка, составь с помощью них  словарь.
 
