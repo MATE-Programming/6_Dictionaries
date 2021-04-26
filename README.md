@@ -1,4 +1,4 @@
-![alt MATE Programming Lab](https://github.com/MATE-Programming/6_Dictionaries/blob/main/lab_6.svg)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_6.svg?raw=true)
 
 # Практическое задание на тему Словари
 
