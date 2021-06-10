@@ -7,7 +7,7 @@
 
 | Given Lists | OUTPUT |
 |   ---   |   ---  |
-| keys = ['Ten', 'Twenty', 'Thirty'], values = [10, 20, 30] | dict={'Ten': 10, 'Twenty':20, 'Thirty': 30}  |
+| keys_list = ['Ten', 'Twenty', 'Thirty'], values_list = [10, 20, 30] | dict={'Ten': 10, 'Twenty':20, 'Thirty': 30}  |
 
 
 {% next "Открыть задание 2" %}
